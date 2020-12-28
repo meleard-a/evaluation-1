@@ -3,15 +3,33 @@
 
 body {
   font-family: "Open Sans", sans-serif;
-  
 }
 
 #navbar {
   font-family: "Righteous" ;
-  
 }
 
+.navbar-brand {
+  font-size: 1.6rem;
+}
 
+#a_propos {
+  background: linear-gradient(to right, #fabc74, #eb5f5d);
+}
+
+.btn {
+  background: linear-gradient(to left, #fabc74, #eb5f5d);
+  color: white;
+}
+.btn:hover {
+  background: linear-gradient(to right, #fabc74, #eb5f5d);
+  color: white;
+  font-weight: bold;
+}
+
+h2 {
+font-weight: bold;
+}
 
 
  
