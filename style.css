@@ -30,7 +30,9 @@ body {
 h2 {
 font-weight: bold;
 }
-
+#carousel {
+  background: linear-gradient(to right, #fabc74, #eb5f5d);
+}
 
  
 
