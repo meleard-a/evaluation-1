@@ -9,8 +9,16 @@ body {
   font-family: "Righteous" ;
 }
 
+.navbar-nav {
+  font-size: 1.5rem;
+}
+
 .navbar-brand {
   font-size: 1.6rem;
+}
+
+.navbar-toggler {
+  height: 2rem;
 }
 
 #a_propos {
@@ -32,13 +40,18 @@ font-family: "Righteous" ;
 font-weight: bold;
 }
 
+h4 {
+  font-size: 0.9rem;
+  white-space: nowrap;
+}
+
 #carousel {
   background: linear-gradient(to right, #fabc74, #eb5f5d);
 }
 
 footer {
   text-align: center;
-  margin-top: 15px;
+  font-size: 0.5rem;
 }
 
 #travel_cards {
