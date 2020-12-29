@@ -27,16 +27,22 @@ body {
   font-weight: bold;
 }
 
-h2 {
+h2, h3 {
+font-family: "Righteous" ;
 font-weight: bold;
 }
+
 #carousel {
   background: linear-gradient(to right, #fabc74, #eb5f5d);
 }
+
 footer {
   text-align: center;
   margin-top: 15px;
-  
+}
+
+#travel_cards {
+  background: linear-gradient(to right, #fabc74, #eb5f5d);  
 }
 
  
