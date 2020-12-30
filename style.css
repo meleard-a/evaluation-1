@@ -4,7 +4,7 @@
 body {
   font-family: "Open Sans", sans-serif;
 }
-
+/* navbar font properties*/
 #navbar {
   font-family: "Righteous" ;
 }
@@ -20,11 +20,20 @@ body {
 .navbar-toggler {
   height: 2rem;
 }
-
+/*gradient background*/
 #a_propos {
   background: linear-gradient(to right, #fabc74, #eb5f5d);
 }
 
+#carousel {
+  background: linear-gradient(to right, #fabc74, #eb5f5d);
+}
+
+#travel_cards {
+  background: linear-gradient(to right, #fabc74, #eb5f5d);  
+}
+
+/*bouton properties*/
 .btn {
   background: linear-gradient(to left, #fabc74, #eb5f5d);
   color: white;
@@ -42,11 +51,6 @@ font-weight: bold;
 
 h4 {
   font-size: 0.9rem;
-  white-space: nowrap;
-}
-
-#carousel {
-  background: linear-gradient(to right, #fabc74, #eb5f5d);
 }
 
 footer {
@@ -54,9 +58,7 @@ footer {
   font-size: 0.5rem;
 }
 
-#travel_cards {
-  background: linear-gradient(to right, #fabc74, #eb5f5d);  
-}
+
 
  
 
